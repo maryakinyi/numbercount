@@ -1,0 +1,44 @@
+.wrapper{
+    background-color: blueviolet;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    align-items: center;
+}
+.wrapper>h1{
+    padding: 20px 40px;
+    margin-bottom: 15px;
+    border: 5pt solid goldenrod;
+    text-align: center;
+    color: darkblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+.project{
+    width: 300px;
+    height: 400px;
+    background-color: peru;
+}
+.cover{
+    width: auto;
+    margin: 70px;
+    height: 50px;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+.counter-box{
+    font-size: 200px;
+    color: azure;
+}
+.counts{
+    padding: 15px;
+    width: auto;
+    background-color: rgb(245, 243, 243);
+    font-size: large;
+    margin-top: 20px;
+    border-radius: 15px;
+    color: beige;
+}
+.counts:hover{
+background-color: red;
+
+}
